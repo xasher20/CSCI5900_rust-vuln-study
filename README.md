@@ -28,7 +28,7 @@ The code is organized by vulnerability type, with **matching C++ and Rust exampl
 ---
 
 ## Repository Structure
-
+CSCI5900_rust-vuln-study/final_report
 ```
 /buffer_overflow_section_pkg/      # Buffer Overflow examples (C++ and Rust)
 /use_after_free_section_pkg/       # Use-After-Free examples
@@ -111,6 +111,6 @@ This repository, along with the final PDF report, ensures full reproducibility:
 
 1. Clone or download this repository.
 2. Follow the compilation instructions in each section’s `README.txt`.
-3. Compare terminal outputs to the screenshots and `expected_outputs_cheatsheet.md`.
+3. Compare terminal outputs to the screenshots and `expected_outputs_cheatsheet.md` located in docs/Final_Report/
 
 ---
